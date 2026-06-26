@@ -1,0 +1,12 @@
+{
+  "name": "rula",
+  "version": "1.0.0",
+  "description": "RuneReplicant3D-Java Monorepo",
+  "type": "module",
+  "scripts": {
+    "setup:folders": "node setup-folders.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
